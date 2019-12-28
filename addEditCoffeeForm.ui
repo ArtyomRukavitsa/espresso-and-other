@@ -28,7 +28,7 @@
     </font>
    </property>
    <property name="text">
-    <string>ID</string>
+    <string>ID </string>
    </property>
   </widget>
   <widget class="QSpinBox" name="spinBox">
